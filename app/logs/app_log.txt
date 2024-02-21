@@ -1,0 +1,56 @@
+2024-02-19 10:10:16 User width phone ++359198781235 has made attempt to validate the code 22923
+2024-02-19 10:14:48 User width phone +359198781235 has made attempt to validate the code 22923
+2024-02-19 18:03:19 User width phone + has made attempt to validate the code 21321564
+2024-02-19 18:05:12 User width phone + has made attempt to validate the code 21321564
+2024-02-19 18:05:45 User width phone +35989123587945 has made attempt to validate the code 21321564
+2024-02-19 18:49:55 Typed property app\models\User::$id must not be accessed before initialization
+2024-02-19 19:03:16 User width phone +23463456345 has made attempt to validate the code 21321564
+2024-02-19 19:03:27 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-19 19:03:27 app\core\Model::updateAll(): Return value must be of type int, null returned
+2024-02-19 19:05:15 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-19 19:05:15 app\core\Model::updateAll(): Return value must be of type int, null returned
+2024-02-19 19:05:53 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-19 19:06:51 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-19 19:09:26 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-19 19:10:16 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-19 19:33:51 User width phone +34523453445 has made attempt to validate the code 12345
+2024-02-19 19:34:33 User width phone +34523453445 has made attempt to validate the code 210393
+2024-02-19 19:34:33 app\core\db\Connection::quoteValue(): Return value must be of type string, app\models\User returned
+2024-02-19 19:35:29 User width phone +34523453445 has made attempt to validate the code 210393
+2024-02-19 19:35:29 app\core\db\Connection::quoteValue(): Return value must be of type string, app\models\User returned
+2024-02-19 19:36:18 User width phone +34523453445 has made attempt to validate the code 210393
+2024-02-19 19:36:20 app\core\db\Connection::quoteValue(): Return value must be of type string, app\models\User returned
+2024-02-19 19:38:34 User width phone +34523453445 has made attempt to validate the code 210393
+2024-02-19 19:40:22 User width phone +34523453445 has made attempt to validate the code 210393
+2024-02-19 19:42:21 User width phone +34523453445 has made attempt to validate the code 210393
+2024-02-19 19:44:57 User width phone +34523453445 has made attempt to validate the code 742867
+2024-02-19 20:18:52 User width phone +234234234345 has made attempt to validate the code 12312
+2024-02-19 20:18:56 User width phone +234234234345 has made attempt to validate the code 12312
+2024-02-19 20:20:58 User width phone +2342341234345 has made attempt to validate the code 2342
+2024-02-19 20:21:06 User width phone +2342341234345 has made attempt to validate the code 2342
+2024-02-19 20:22:17 User width phone +2342341234345 has made attempt to validate the code 2342
+2024-02-19 20:22:41 User width phone +2342341234345 has made attempt to validate the code 702517
+2024-02-19 20:43:19 User width phone +123421234522 has made attempt to validate the code 834219
+2024-02-19 20:45:58 User width phone +123123123123 has made attempt to validate the code 123123
+2024-02-19 20:46:27 User width phone +123123123123 has made attempt to validate the code 123123
+2024-02-20 07:39:07 User width phone +2342341234234 has made attempt to validate the code 234424
+2024-02-20 07:39:41 User width phone +2342341234234 has made attempt to validate the code 624779
+2024-02-20 08:34:03 app\core\db\QueryBuilder::buildJoin(): Argument #1 ($joins) must be of type array, null given, called in H:\developement\sms\app\core\db\QueryBuilder.php on line 42
+2024-02-20 08:34:44 app\core\db\QueryBuilder::buildGroupBy(): Argument #1 ($columns) must be of type array, null given, called in H:\developement\sms\app\core\db\QueryBuilder.php on line 44
+2024-02-20 08:35:12 app\core\db\QueryBuilder::buildOrderByAndLimit(): Argument #2 ($orderBy) must be of type array, null given, called in H:\developement\sms\app\core\db\QueryBuilder.php on line 49
+2024-02-20 08:36:01 app\core\db\QueryBuilder::buildOrderBy(): Argument #1 ($columns) must be of type array, null given, called in H:\developement\sms\app\core\db\QueryBuilder.php on line 186
+2024-02-20 09:08:59 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-20 09:09:06 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-20 09:09:07 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-20 09:09:09 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-20 09:09:10 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-20 09:10:11 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-20 09:10:11 app\core\db\Query::queryScalar(): Argument #2 ($db) must be of type app\core\db\Connection, null given, called in H:\developement\sms\app\core\db\Query.php on line 129
+2024-02-20 09:11:39 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-20 09:11:47 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-20 09:11:48 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-20 09:12:00 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-20 09:17:52 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-20 09:19:52 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-20 09:22:57 User width phone +23463456345 has made attempt to validate the code 01234
+2024-02-20 09:24:41 User width phone +23463456345 has made attempt to validate the code 01234

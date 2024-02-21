@@ -1,0 +1,12 @@
+Options -MultiViews
+RewriteEngine on
+
+# allow cross domain requests consider using a specific domain
+Header add Access-Control-Allow-Origin "*"
+
+# if a directory or a file exists, use it directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# otherwise forward it to index.php with url as a parameter
+RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
