@@ -1,0 +1,22 @@
+{
+  "name": "bksi/otp_test",
+  "description": "Simple OTP test",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "mladen",
+      "email": "bksi@abv.bg"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"app\\": "app/"}
+  },
+  "require": {
+    "ext-pdo": "*",
+    "ext-ctype": "*",
+    "ext-mbstring": "*",
+    "ext-simplexml": "*",
+    "ext-readline": "*"
+  }
+}

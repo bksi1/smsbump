@@ -1,0 +1,11 @@
+#!/usr/bin/env php
+<?php
+require_once __DIR__ . '/vendor/autoload.php';
+
+use app\console\App;
+
+$config = require __DIR__ . '/app/config/config.php';
+
+$app = new App($config);
+
+$app->run();
